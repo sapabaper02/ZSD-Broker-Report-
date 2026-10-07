@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service for Broker Report'
+define service ZUI_C_BROKER_DATA_REPORT {
+  expose ZC_BROKER_DATA_REPORT;
+}
